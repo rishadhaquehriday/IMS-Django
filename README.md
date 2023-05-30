@@ -17,7 +17,7 @@ Ensure that Python is installed on your system
 ## Setup Backend
 - Navigate to cloned project directory
   
-  `cd IMS-React-Django`
+  `cd IMS-Django`
   
 - Create a python virtual environment for backend  
 
